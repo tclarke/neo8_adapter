@@ -22,7 +22,7 @@ This design is licensed as [Open Source Hardware](http://www.oshwa.org/)
 Initial revision of the board.
 
 ### Rev. 2
- - {+ Add solder bridge documentation to the schematic +}
- - {+ Add header pin labels to the PCB on the front and back +}
- - {+ Tuning of solder mask markings for readability +}
- - {+ Addition of solder mask markings to easily demarcate the optional sections +}
+ - Add solder bridge documentation to the schematic
+ - Add header pin labels to the PCB on the front and back
+ - Tuning of solder mask markings for readability
+ - Addition of solder mask markings to easily demarcate the optional sections
