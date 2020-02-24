@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name neo8_adapter-rescue)(type Legacy)(uri ${KIPRJMOD}/neo8_adapter-rescue.lib)(options "")(descr ""))
+)
