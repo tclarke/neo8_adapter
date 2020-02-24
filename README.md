@@ -15,7 +15,8 @@ This is a board designed to breakout pins on the uBlox NEO-8 GPS modules.
 
 ## License
 This design is licensed as [Open Source Hardware](http://www.oshwa.org/)
-![OSHW Logo](https://i0.wp.com/www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-200-px.png?resize=190%2C200&ssl=1)
+
+![OSHW Logo](https://i1.wp.com/www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-100-px.png?resize=95%2C100&ssl=1)
 
 ## Revision history
 ### Rev. 1
